@@ -1,0 +1,20 @@
+Example Id,Prompt Type,Score 3
+/,en prompt1,/
+/,en orig300 prompt1,/
+/,en prompt2,/
+/,en orig300 prompt2,/
+/,en orig prompt10,/
+/,de prompt10,/
+/,fr prompt10,/
+/,es prompt10,/
+/,en orig prompt1,/
+/,en prompt10,/
+/,en orig prompt2,/
+/,fr prompt2,/
+1,fr prompt1,opération vinaigre vinaigre étudiants marbre
+2,fr prompt1,marbre masse contenant récipients vinaigre échantillon
+1,es prompt1,material agua recipiente recipiente recipiente
+/,es prompt2,/
+/,en orig300 prompt10,/
+/,de prompt2,/
+/,de prompt1,/

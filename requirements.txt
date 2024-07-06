@@ -1,0 +1,22 @@
+typer~=0.4.2
+matplotlib~=3.7.5
+spacy~=3.5.4
+click~=8.1.7
+nltk~=3.8.1
+numpy~=1.24.4
+pytesseract~=0.3.10
+tqdm~=4.64.1
+docx~=0.2.4
+Pillow~=9.4.0
+pandas~=1.5.3
+scikit-learn~=1.1.3
+rich~=12.6.0
+PyYAML~=6.0.1
+python-docx~=1.1.0
+pytest
+
+de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.5.0/de_core_news_sm-3.5.0-py3-none-any.whl#sha256=c9c06808be2f1e7f448b37f94391a50dab2e2f72f9b5c2e979be18aebac4a06c
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl#sha256=0964370218b7e1672a30ac50d72cdc6b16f7c867496f1d60925691188f4d2510
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl#sha256=13b909bac0de5f5338f4327b14a9cc9736cf51f07131a3cfcb688dbeb8608bdd
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl#sha256=13b909bac0de5f5338f4327b14a9cc9736cf51f07131a3cfcb688dbeb8608bdd
+fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.5.0/fr_core_news_sm-3.5.0-py3-none-any.whl#sha256=632607dab3a5253e5079e1b1a094cedc87185c2930e4405080d2e1810fbf9800

@@ -1,0 +1,19 @@
+Example Id,Prompt Type,Score 2
+/,en prompt1,/
+/,en orig300 prompt1,/
+/,en prompt2,/
+/,en orig300 prompt2,/
+/,en orig prompt10,/
+/,de prompt10,/
+/,fr prompt10,/
+/,es prompt10,/
+/,en orig prompt1,/
+/,en prompt10,/
+/,en orig prompt2,/
+/,fr prompt2,/
+/,fr prompt1,/
+/,es prompt1,/
+/,es prompt2,/
+/,en orig300 prompt10,/
+/,de prompt2,/
+/,de prompt1,/

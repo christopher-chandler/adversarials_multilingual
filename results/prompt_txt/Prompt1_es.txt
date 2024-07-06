@@ -1,0 +1,13 @@
+Ejercicio – Lluvia Ácida
+
+Un grupo de estudiantes ha escrito el siguiente procedimiento para su investigación.
+Procedimiento:
+Determinar la masa de cuatro muestras diferentes.
+Echar vinagre en cada uno de los cuatro recipientes idénticos.
+Poner una muestra de un material en un recipiente y etiquetar. Repetir con las muestras restantes, poniendo una única muestra en cada recipiente.
+Después de 24 horas, quitar las muestras de los recipientes y enjuagar cada muestra con agua destilada.
+Dejar las muestras reposar y secar durante 30 minutos.
+Determinar la masa de cada muestra.
+Los datos de los estudiantes se recogen en la siguiente tabla:
+
+Después de leer el procedimiento del grupo, describe qué información adicional necesitarías para replicar el experimento. Asegúrate de incluir al menos tres datos más.

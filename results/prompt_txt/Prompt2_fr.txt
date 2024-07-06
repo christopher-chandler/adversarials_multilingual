@@ -1,0 +1,30 @@
+EXERCICE 2
+
+Un étudiant a effectué l’enquête suivante pour tester quatre plastiques polymères différents pour l’étirement.
+
+ Procédure :
+ 1. Prélever un échantillon d’un type de plastique et mesurer sa longueur.
+ 2. Coller le bord supérieur de l’échantillon de plastique sur une table afin qu’il soit suspendu librement sur le côté de la table.
+ 3. Fixer une pince au bord inférieur de l’échantillon de plastique.
+ 4. Ajouter des poids à la pince et laissez-les suspendre pendant cinq minutes.
+ 5. Retirer les poids et la pince, et mesurez la longueur des types de plastique.
+ 6. Répéter la procédure exactement pour les trois échantillons de plastique restants.
+ 7. Effectuer un deuxième essai (T2) exactement comme le premier essai (T1).
+
+ L’élève a enregistré les données suivantes de l’enquête.
+
+
+ 
+ Questions
+ 	a. Tirez une conclusion en fonction des données de l’élève
+ 	b. Décrivez deux façons dont l’étudiant aurait pu améliorer la conception expérimentale et/ou la validité des résultats.Table de données
+
+Quantité etiré
+
+Type de plastique (mm)
+iz 2
+A 10 2
+8 22 23
+g 14 2B
+D 20 20
+

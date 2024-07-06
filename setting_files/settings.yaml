@@ -1,0 +1,4 @@
+#CONFIG_HOME_DIR: "C://Users/christopherchandler/Desktop/gitlab/adversarials-multilingual/"
+CONFIG_HOME_DIR: "/Users/christopherchandler/code_repos/RUB/adversarials-multilingual"
+CONTENT_BURST_SEED: 42
+TEST_TESSERACT_IMG: "resources/data/Prompts/English/Prompt10_en.png"

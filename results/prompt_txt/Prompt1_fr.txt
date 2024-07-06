@@ -1,0 +1,26 @@
+EXERCICE 1
+ Un groupe d’étudiants a écrit la procédure suivante pour leur enquête :
+
+ 1. Déterminer la masse de quatre échantillons différents.
+ 2. Verser du vinaigre dans chacun des quatre récipients séparés, mais identiques.
+ 3. Placer un échantillon d’un matériau dans un contenant et l’étiqueter. Répéter l’opération avec les échantillons restants, en plaçant un seul échantillon dans un seul contenant.
+ 4. Après 24 heures, retirer les échantillons des contenants et rincer chaque échantillon avec de l’eau distillée.
+ 5. Laisser les échantillons reposer et sécher pendant 30 minutes. 
+ 6. Déterminer la masse de chaque échantillon.
+ Les données des étudiants sont enregistrées dans le tableau ci-dessous.
+
+
+
+ 
+Exercice :
+Après avoir lu la procédure du groupe, décrivez les informations supplémentaires dont vous auriez besoin pour reproduire l’expérience. Assurez-vous d’inclure au moins trois éléments d’information.Echantillon Masse de départ (g) Masse de fin (g) Différence de masse
+()
+
+marbre 98 94 04
+
+calcaire 10.4 2 -13
+
+bois 112 11.2 0.0
+
+plastique 72 7a “or
+

@@ -1,0 +1,25 @@
+Example Id,Prompt Type,Score 1
+1,en prompt1,label vinegar material vinegar data vinegar procedure
+/,en orig300 prompt1,/
+/,en prompt2,/
+1,en orig300 prompt2,data investigation polymer sample weights weights
+2,en orig300 prompt2,edge clamp weights samples investigation minutes
+1,en orig prompt10,doghouse gray jar thermometer temperature Hypothesis
+2,en orig prompt10,thermometer doghouse Minutes doghouse thermometer
+/,de prompt10,/
+/,fr prompt10,/
+1,es prompt10,bote caseta color negro pintura temperatura tapas
+2,es prompt10,temperatura caseta pasos caseta resultados centímetros
+1,en orig prompt1,label vinegar group vinegar material pieces samples
+2,en orig prompt1,procedure vinegar vinegar containers minutes
+1,en prompt10,color trial doghouse doghouse doghouse centimeters
+2,en prompt10,doghouse color increase temperature doghouse
+/,en orig prompt2,/
+/,fr prompt2,/
+/,fr prompt1,/
+/,es prompt1,/
+/,es prompt2,/
+1,en orig300 prompt10,jar doghouse steps minutes description lamp colors
+2,en orig300 prompt10,experiment Data stopwatch glass lids colors Hypothesis
+/,de prompt2,/
+/,de prompt1,/

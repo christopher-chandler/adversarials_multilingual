@@ -1,0 +1,19 @@
+Language Prompt,ARR,QWK
+en prompt1,0.999,0.52
+en orig300 prompt1,1.0,0.56
+en orig prompt1,0.994,0.73
+es prompt1,1.0,0.72
+fr prompt1,0.99,0.68
+de prompt1,1.0,0.54
+en prompt2,1.0,0.15
+en orig300 prompt2,0.011,0.35
+en orig prompt2,1.0,0.49
+es prompt2,1.0,0.46
+fr prompt2,1.0,0.67
+de prompt2,1.0,0.49
+en prompt10,0.998,0.56
+en orig300 prompt10,0.0,0.56
+en orig prompt10,0.998,0.65
+es prompt10,0.985,0.63
+fr prompt10,1.0,0.59
+de prompt10,1.0,0.55

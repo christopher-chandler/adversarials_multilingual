@@ -1,0 +1,20 @@
+Ejercicio - Investigación sobre polímeros
+
+Un estudiante hizo la siguiente investigación para probar la elasticidad de cuatro polímeros plásticos diferentes.
+Procedimiento:
+Tomar una muestra de un tipo de plástico, y medir su longitud.
+Pegar el borde superior de la muestra del plástico a una mesa, para que quede colgando libremente del borde de la mesa.
+Enganchar una abrazadera al borde inferior de la muestra de plástico.
+Añadir pesos a la abrazadera y dejarlos colgando durante cinco minutos.
+Retirar los pesos y la abrazadera, y medir la longitud de la muestra de plástico.
+Repetir el mismo procedimiento exactamente igual para las tres muestras de plásticos restantes.
+Hacer una segunda prueba (P2), exactamente como la primera prueba (P1).
+El estudiante recogió los siguientes datos de la investigación:
+Tabla de datos:
+
+Saca una conclusión basada en los datos del estudiante.
+Describe las dos formas en las que el estudiante podría haber mejorado el diseño del experimento y/o la validez de los resultados.
+
+
+
+

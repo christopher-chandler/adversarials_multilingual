@@ -1,0 +1,75 @@
+ EXERCICE 3
+ 
+ Brandi et Jerry ont fait l’expérience contrôlée suivante pour découvrir comment la couleur d’un objet affecte sa température.
+Question : Quel est l’effet des différentes couleurs de couvercle sur la température de l’air à l’intérieur d’un bocal en verre exposé à une lampe ?
+Hypothèse : Plus la couleur du couvercle est foncée, plus l’augmentation de la température de l’air dans le bocal en verre est importante, car les couleurs plus foncées absorbent plus d’énergie.
+
+Materiaux:
+ •Pot en verre
+ •Lampe
+ •Quatre couvercles colorés : noir, gris foncé, gris clair et blanc
+ •Thermomètre
+ •Mètre 
+ •Chronomètre
+
+
+
+ Procédure :
+ 1. Mettre le couvercle noir avec le thermomètre attaché sur le bocal en verre.
+ 2. S’assurer que la température de départ à l’intérieur du pot est de 24° C.
+ 3. Placer la lampe à 5 centimètres du couvercle et allumer la lampe.
+ 4. Après 10 minutes, mesurer la température de l’air à l’intérieur du bocal en verre et l’enregistrer comme essai 1.
+ 5. Éteindre la lampe et attendre que l’air dans le bocal revienne à la température de départ.
+ 6. Répéter les étapes 2 à 5 pour les essais 2 et 3.
+ 7. Répéter les étapes 1 à 6 pour les couvercles gris foncé, gris clair et blanc.
+ 8. Calculer et enregistrer la température moyenne de l’air pour chaque couleur de couvercle
+ Données 
+ 
+
+
+ Question A
+
+ Brandi et Jerry étaient en train de concevoir une niche. Utilisez les résultats de l’expérience pour décrire la meilleure couleur de peinture pour la niche.
+	Choisissez une couleur de peinture. 
+ 
+ 1. Noir 
+ 2. Blanc
+ 3. Gris foncé
+ 4. Gris clair
+ 
+Veuillez entrer votre réponse (1, 2, 3 ou 4 )
+ 
+ 
+ Question B
+
+ Décrivez comment cette couleur peut affecter l’intérieur de la niche. 
+Utilisez les résultats de l’expérience pour prendre en charge votre description.
+‘Couleur
+ou
+
+verre aprés 10min (*c)
+
+‘Température de Vair & 'intérieur du bocal en
+
+couvercle
+Essalt | Essai2__| Essai3_—_ | Moyenne
+Noir By 52 34 33
+Grisfoncé | 48 Ey a8 Ey
+Grisciair | 44 a5 a6 a5
+Blanc az a ai a
+
+Lntempérature de départ ext de 26% pour tout essai
+Configuration d’expérience contralée
+
+Lampe z..
+
+couvercie Noir
+
+Bocal en verre avec
+de Vair 8 Vintérieur
+
+Thermométre aI’
+Intérieur du pot Table
+
+‘Schema pasa léchelle
+

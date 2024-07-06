@@ -1,0 +1,69 @@
+
+
+
+Achten Sie in Ihrer Beschreibung darauf:
+Eine Lackfarbe auszuwählen
+Zu beschreiben, wie diese Lackfarbe das Innere der Hundehütte beeinflussen könnte.
+Ergebnisse aus dem Experiment zu verwenden, um Ihre Beschreibung zu unterstützen.
+
+Wählen Sie eine Farbe:
+Daten:
+
+Deckelfarbe vs. Lufttemperatur im Einmachglas
+
+Lufttemperaturinnerhalb des
+|Deckelfarbe Einmachglases nach 10 Minuten (in °C)
+
+Durchgang Durchgang Durchgang Durchschnitt
+
+1 2 3
+
+Schwarz 54 52 54 53
+Dunkelgrau 48 48 48 48
+Hellgrau 44 45 46 45
+Weis 42 43 41 42
+
+Beachten Sie: Die Starttemperatur fiir jeden Durchgang waren 24°C.
+Tim und Jan planen eine Hundehitte. Das Experiment soll dazu verwendet werden, um eine geeignete Farbe fir den
+Anstrich der Hundehitte auszuwahlen.
+Aufgabe 3 - Farbauswahl fiir eine Hundehiitte:
+
+Tim und Jan haben das folgende kontrollierte Experiment durchgefiihrt, um herauszufinden, wie die Farbe eines Objektes
+dessen Temperatur beeinflusst. Die Frage, welche sich dabei stellt ist die Folgende:
+
+Wie wirkt sich die Farbe eines Deckels auf die Innentemperatur eines Einmachglases aus, welches unter einer Lampe
+steht,
+
+Als Hypothese gilt, dass je dunkler die Farbe des Deckels, desto héher die Temperatur im Einmachglas, weil dunkle Farben
+mehr Energie absorbieren.
+
+Kontrollierter Versuchsaufbau
+
+I Lampe
+
+Senwarzer
+Vorechlus
+
+Eimachgies
+‘mit Lut im S
+— ‘Thermometer
+
+im Einmachas Tisch
+
+Diagramm nicht mabstabegetreu
+
+Prozedur:
+
+‘© VerschlieRe das Einmachglas mithilfe des schwarzen Deckels, an dem ein Thermometer befestigt ist.
+
+‘* Stelle sicher, dass die Anfangstemperatur im Glas 24°C ist.
+
+‘* Platziere die Lampe 5 cm vom Verschluss entfernt und schalte die Lampe ein.
+
+‘* Miss die Temperatur innerhalb des Einmachglases nach zehn Minuten und notiere dir die Temperatur als Durchgang 1.
+‘© Schalte die Lampe aus und warte bis die Temperatur im Einmachglas wieder auf die Anfangstemperatur gesunken ist.
+‘© Wiederhole die Schritte 2 bis 5 fiir die Durchgange 2 und 3.
+
+‘* Wiederhole die Schritte 1 bis 6 fiir den dunkelgrauen, hellgrauen und weiBen Verschluss.
+
+‘© Berechne und erfasse die durchschnittliche Lufttemperatur fir jede Verschluss-Farbe.

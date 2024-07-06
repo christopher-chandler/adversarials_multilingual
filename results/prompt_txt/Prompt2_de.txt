@@ -1,0 +1,34 @@
+
+
+	
+Ziehe eine Schlussfolgerung aus den Daten des Schülers.
+Nenne zwei Möglichkeiten, mit denen der Schüler den Versuchsaufbau und/oder die Validität der Ergebnisse hätte verbessern können.
+Aufgabe 2 - Polymer-Untersuchung:
+
+Ein Schiller hat die folgende Untersuchung durchgefiihrt, um vier verschiedene Polymerkunststoffe auf ihre Dehnbarkeit
+zutesten:
+
+‘* Nimm eine Probe von einem Kunststoff und miss seine Lange.
+
+‘*  Klebe die obere Ecke der Kunststoffprobe an einen Tisch, sodass sie frei an der Seite des Tisches herabhangen kann.
+‘© Befestige eine Klemme an der unteren Ecke der Kunststoffprobe.
+
+‘* Hange Gewichte an die Klemme und lass sie fir fiinf Minuten hangen.
+
+‘© Entferne die Gewichte und die Klemme und miss die Lange des Kunststoffs.
+
+‘* Wiederhole die Prozedur fiir die dibrigen drei Kunststoffproben.
+
+‘*  Fahre einen zweiten Durchlauf (D2) durch, der genau wie der erste Durchlauf (D1) ablauft.
+
+Der Schiiler hat die folgenden Daten bei seiner Untersuchung erhoben:
+
+Gestreckt um
+(mm)
+Plastikart
+D1 D2
+A 10 12
+B 22 23
+c 14 13
+D 20 20
+

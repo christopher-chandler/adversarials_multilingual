@@ -1,0 +1,36 @@
+Example Id,Prompt Type,Score 0
+1,en prompt1,label material procedure samples group material
+2,en prompt1,label experiment experiment students containers
+1,en orig300 prompt1,investigation Rain procedure containers investigation
+2,en orig300 prompt1,label label minutes data water order order label
+1,en prompt2,sample results data weights data weights student
+2,en prompt2,trial minutes type sample type types plastics
+1,en orig300 prompt2,conclusion conclusion investigation minutes samples
+2,en orig300 prompt2,validity conclusion sample table conclusion types
+1,en orig prompt10,glass Note starting results starting starting
+2,en orig prompt10,thermometer starting steps Question lamp results
+1,de prompt10,Anfangstemperatur Lufttemperaturinnerhalb Experiment
+2,de prompt10,Temperatur Glas Folgende Innentemperatur dunkelgrauen
+1,fr prompt10,Table train minutes réponse couvercle Données
+2,fr prompt10,centimètres essais résultats bocal Table Données
+1,es prompt10,experimento energía Hipótesis color Datos minutos
+2,es prompt10,diagrama bote colores aire centímetros distancia
+1,en orig prompt1,mass hours vinegar container students sample
+2,en orig prompt1,group procedure material information samples
+1,en prompt10,steps steps color color colors Hypothesis effect
+2,en prompt10,C Data description object air energy object colors
+1,en orig prompt2,plastics design data plastics student data design
+2,en orig prompt2,ways length clamp procedure procedure trial polymer
+1,fr prompt2,façons poids validité conclusion résultats essai
+2,fr prompt2,Questions validité plastiques plastique Type
+1,fr prompt1,informations besoin contenants informations matériau
+2,fr prompt1,eau marbre enquête besoin récipients informations
+1,es prompt1,agua necesitarías minutos necesitarías investigación
+2,es prompt1,información agua datos tabla necesitarías muestra
+1,es prompt2,datos longitud mesa plástico investigación pesos
+2,es prompt2,plásticos resultados prueba resultados polímeros
+/,en orig300 prompt10,/
+1,de prompt2,Probe Minuten Schülers Ecke Polymerkunststoffe
+2,de prompt2,Schiiler Validität Plastikart Aufgabe Versuchsaufbau
+1,de prompt1,Schtiler Proben Trocknen Saurer Materialien Unterschied
+2,de prompt1,Informationen Ganze Materialien GieBe Behiltern
